@@ -56,5 +56,6 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 📫 Contact
 
-**Developer:** [Akash Choudhary]
+**Developer:** Akash Choudhary
+
 **LinkedIn:** [linkedin.com/in/iakashchoudhary](https://www.linkedin.com/in/iakashchoudhary)
